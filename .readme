@@ -1,0 +1,17 @@
+add your own env file and variables
+
+
+
+
+api endpoints
+
+'/register'  for register
+'/login'     for login
+/send-reset-password-email'     for sending email containg reset password link
+'/reset-password/:id/:token'    for reseting password through email link
+
+
+
+'/changepassword'           for changing password when logedin
+
+'/loggeduser'               for getting the logedin user data
